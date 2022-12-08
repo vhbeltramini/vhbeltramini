@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Victor Hugo, i'm 19 years old and currently working as software developer at Mercado Livre and grading at the Santa Catarina State University at the 5 semester of Bachelor's degree in Software Engineering course
+My name is Victor Hugo, i'm 20 years old and currently working as software developer at Mercado Livre and grading at the Santa Catarina State University at the 5 semester of Bachelor's degree on the Software Engineering course.
 
 <div align="center">
   <a href="https://github.com/vhbeltramini">
